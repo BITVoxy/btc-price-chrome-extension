@@ -1,6 +1,6 @@
 {
 	"name": "Bitcoin Canada Price Charts",
-	"varsion": "0.0.1",
+	"version": "0.0.1",
 	"description": "Get the current bitcoin price from multiple sources",
 	"manifest_version": 2,
 	"permissions": [
